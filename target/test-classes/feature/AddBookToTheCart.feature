@@ -11,4 +11,4 @@ Feature:
 
     Examples: 
       | userid   | password | book                                    |
-      | ortonikc | pass1234 | harry potter and the chamber of secrets |
+      | ortonikc | pass1234 | harry potter and the chamber of secret |
